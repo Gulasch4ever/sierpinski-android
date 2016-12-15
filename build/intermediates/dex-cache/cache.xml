@@ -21,15 +21,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
-        <dex dex="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_8cd6439c5972c1330dd76b9e3e46ec73d0087c8d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
         jumboMode="true"
         optimize="true"
@@ -48,12 +39,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="54a50b8ed15323a213b53a0346acf11205122a34">
-        <dex dex="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_db332089f72ece8dc5f2b07bb9de12e3019538d5/classes.dex" />
+        sha1="82d20112c7e3ca7ac3ebc08e4ed3a91c593989ad">
+        <dex dex="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_21064f5cd024307b292a43c964783e9078dce236/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_8cd6439c5972c1330dd76b9e3e46ec73d0087c8d/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -66,12 +66,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="7996ab5b7f1295599265e2a51a3e095fcee47f34">
-        <dex dex="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_21064f5cd024307b292a43c964783e9078dce236/classes.dex" />
+        sha1="4cb0ff1d3c2f6de521f73eb46a798c4f5543c3b1">
+        <dex dex="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_db332089f72ece8dc5f2b07bb9de12e3019538d5/classes.dex" />
     </item>
     <item
         is-multidex="true"

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Dec 15 17:29:32 CET 2016
+#Thu Dec 15 17:32:55 CET 2016
 175.set=ANDROID_RESOURCE
 122.file=/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/res/resources-debug.ap_/res/layout/abc_activity_chooser_view_list_item.xml
 60.set=ANDROID_RESOURCE
