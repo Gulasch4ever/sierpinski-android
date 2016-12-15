@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/laszlobalo/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/f75e7acabd57b213d6f61483240286c07213ec0e/scala-library-2.11.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f75e7acabd57b213d6f61483240286c07213ec0e">
+        <dex dex="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/scala-library-2.11.7_76a1501ae706e5f12b764626c768d58f8f22692e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.1.1_aacfc80f4f800334fb07f3fd97afb61116318814/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_8cd6439c5972c1330dd76b9e3e46ec73d0087c8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_4050c9eefcdab8f290786ea2419a9e83ff4338e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a5380ddd58f4f8946ddade4c64dd77de4a836d5">
+        <dex dex="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-24.1.1_8390c1ef6fbecb58f96bffec6658f6117290b53b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_62579d768270b55f24104a39c9ec01956969c86c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="97604a754589afd3623cfa815859ad85f90c373b">
+        <dex dex="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_db332089f72ece8dc5f2b07bb9de12e3019538d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7996ab5b7f1295599265e2a51a3e095fcee47f34">
+        <dex dex="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_21064f5cd024307b292a43c964783e9078dce236/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_3c54a01f96d90b1139026b5cd951fbee1488f083/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laszlobalo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_4108db705feb0f420150a562aac7d187329e5b3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_f6168dde7a1615cc2e753ea7d15cfef6d3632b43/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,102 @@
+products:
+   app/build/generated/source/buildConfig/debug/at/fh/swengb/sierpinski_android/BuildConfig.java -> app/build/intermediates/classes/debug/at/fh/swengb/sierpinski_android/BuildConfig.class
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> app/build/intermediates/classes/debug/android/support/v7/appcompat/R$anim.class
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> app/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> app/build/intermediates/classes/debug/android/support/v7/appcompat/R$bool.class
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> app/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> app/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> app/build/intermediates/classes/debug/android/support/v7/appcompat/R$integer.class
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> app/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> app/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> app/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> app/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> app/build/intermediates/classes/debug/android/support/v7/appcompat/R.class
+   app/build/generated/source/r/debug/android/support/v7/cardview/R.java -> app/build/intermediates/classes/debug/android/support/v7/cardview/R$attr.class
+   app/build/generated/source/r/debug/android/support/v7/cardview/R.java -> app/build/intermediates/classes/debug/android/support/v7/cardview/R$color.class
+   app/build/generated/source/r/debug/android/support/v7/cardview/R.java -> app/build/intermediates/classes/debug/android/support/v7/cardview/R$dimen.class
+   app/build/generated/source/r/debug/android/support/v7/cardview/R.java -> app/build/intermediates/classes/debug/android/support/v7/cardview/R$style.class
+   app/build/generated/source/r/debug/android/support/v7/cardview/R.java -> app/build/intermediates/classes/debug/android/support/v7/cardview/R$styleable.class
+   app/build/generated/source/r/debug/android/support/v7/cardview/R.java -> app/build/intermediates/classes/debug/android/support/v7/cardview/R.class
+   app/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> app/build/intermediates/classes/debug/android/support/v7/gridlayout/R$attr.class
+   app/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> app/build/intermediates/classes/debug/android/support/v7/gridlayout/R$dimen.class
+   app/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> app/build/intermediates/classes/debug/android/support/v7/gridlayout/R$id.class
+   app/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> app/build/intermediates/classes/debug/android/support/v7/gridlayout/R$styleable.class
+   app/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> app/build/intermediates/classes/debug/android/support/v7/gridlayout/R.class
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> app/build/intermediates/classes/debug/at/fh/swengb/sierpinski_android/R$anim.class
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> app/build/intermediates/classes/debug/at/fh/swengb/sierpinski_android/R$attr.class
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> app/build/intermediates/classes/debug/at/fh/swengb/sierpinski_android/R$bool.class
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> app/build/intermediates/classes/debug/at/fh/swengb/sierpinski_android/R$color.class
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> app/build/intermediates/classes/debug/at/fh/swengb/sierpinski_android/R$dimen.class
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> app/build/intermediates/classes/debug/at/fh/swengb/sierpinski_android/R$drawable.class
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> app/build/intermediates/classes/debug/at/fh/swengb/sierpinski_android/R$id.class
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> app/build/intermediates/classes/debug/at/fh/swengb/sierpinski_android/R$integer.class
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> app/build/intermediates/classes/debug/at/fh/swengb/sierpinski_android/R$layout.class
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> app/build/intermediates/classes/debug/at/fh/swengb/sierpinski_android/R$mipmap.class
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> app/build/intermediates/classes/debug/at/fh/swengb/sierpinski_android/R$string.class
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> app/build/intermediates/classes/debug/at/fh/swengb/sierpinski_android/R$style.class
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> app/build/intermediates/classes/debug/at/fh/swengb/sierpinski_android/R$styleable.class
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> app/build/intermediates/classes/debug/at/fh/swengb/sierpinski_android/R.class
+   app/src/main/java/at/fh/swengb/sierpinski_android/MainActivity.java -> app/build/intermediates/classes/debug/at/fh/swengb/sierpinski_android/MainActivity.class
+binary dependencies:
+   app/build/generated/source/buildConfig/debug/at/fh/swengb/sierpinski_android/BuildConfig.java -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
+   app/build/generated/source/r/debug/android/support/v7/cardview/R.java -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
+   app/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
+   app/src/main/java/at/fh/swengb/sierpinski_android/MainActivity.java -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
+   app/src/main/java/at/fh/swengb/sierpinski_android/MainActivity.java -> /Users/laszlobalo/Library/Android/sdk/platforms/android-24/android.jar
+   app/src/main/java/at/fh/swengb/sierpinski_android/MainActivity.java -> app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar
+   app/src/main/java/at/fh/swengb/sierpinski_android/MainActivity.java -> app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar
+   app/src/main/java/at/fh/swengb/sierpinski_android/MainActivity.java -> app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar
+source dependencies:
+   app/build/generated/source/buildConfig/debug/at/fh/swengb/sierpinski_android/BuildConfig.java -> app/build/generated/source/buildConfig/debug/at/fh/swengb/sierpinski_android/BuildConfig.java
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> app/build/generated/source/r/debug/android/support/v7/appcompat/R.java
+   app/build/generated/source/r/debug/android/support/v7/cardview/R.java -> app/build/generated/source/r/debug/android/support/v7/cardview/R.java
+   app/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> app/build/generated/source/r/debug/android/support/v7/gridlayout/R.java
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java
+   app/src/main/java/at/fh/swengb/sierpinski_android/MainActivity.java -> app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java
+   app/src/main/java/at/fh/swengb/sierpinski_android/MainActivity.java -> app/src/main/java/at/fh/swengb/sierpinski_android/MainActivity.java
+external dependencies:
+class names:
+   app/build/generated/source/buildConfig/debug/at/fh/swengb/sierpinski_android/BuildConfig.java -> at.fh.swengb.sierpinski_android.BuildConfig
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$anim
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$attr
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$bool
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$color
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$dimen
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$drawable
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$id
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$integer
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$layout
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$string
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$style
+   app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> android.support.v7.appcompat.R$styleable
+   app/build/generated/source/r/debug/android/support/v7/cardview/R.java -> android.support.v7.cardview.R
+   app/build/generated/source/r/debug/android/support/v7/cardview/R.java -> android.support.v7.cardview.R$attr
+   app/build/generated/source/r/debug/android/support/v7/cardview/R.java -> android.support.v7.cardview.R$color
+   app/build/generated/source/r/debug/android/support/v7/cardview/R.java -> android.support.v7.cardview.R$dimen
+   app/build/generated/source/r/debug/android/support/v7/cardview/R.java -> android.support.v7.cardview.R$style
+   app/build/generated/source/r/debug/android/support/v7/cardview/R.java -> android.support.v7.cardview.R$styleable
+   app/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> android.support.v7.gridlayout.R
+   app/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> android.support.v7.gridlayout.R$attr
+   app/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> android.support.v7.gridlayout.R$dimen
+   app/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> android.support.v7.gridlayout.R$id
+   app/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> android.support.v7.gridlayout.R$styleable
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> at.fh.swengb.sierpinski_android.R
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> at.fh.swengb.sierpinski_android.R$anim
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> at.fh.swengb.sierpinski_android.R$attr
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> at.fh.swengb.sierpinski_android.R$bool
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> at.fh.swengb.sierpinski_android.R$color
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> at.fh.swengb.sierpinski_android.R$dimen
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> at.fh.swengb.sierpinski_android.R$drawable
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> at.fh.swengb.sierpinski_android.R$id
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> at.fh.swengb.sierpinski_android.R$integer
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> at.fh.swengb.sierpinski_android.R$layout
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> at.fh.swengb.sierpinski_android.R$mipmap
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> at.fh.swengb.sierpinski_android.R$string
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> at.fh.swengb.sierpinski_android.R$style
+   app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> at.fh.swengb.sierpinski_android.R$styleable
+   app/src/main/java/at/fh/swengb/sierpinski_android/MainActivity.java -> at.fh.swengb.sierpinski_android.MainActivity
