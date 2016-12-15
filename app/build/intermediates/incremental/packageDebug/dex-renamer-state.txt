@@ -1,4 +1,4 @@
-#Thu Dec 15 16:58:01 CET 2016
+#Thu Dec 15 17:24:44 CET 2016
 base.0=/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_21064f5cd024307b292a43c964783e9078dce236
 renamed.1=classes.dex
 renamed.0=classes2.dex

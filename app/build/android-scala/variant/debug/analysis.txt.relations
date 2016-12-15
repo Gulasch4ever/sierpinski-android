@@ -38,26 +38,27 @@ products:
    app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> app/build/intermediates/classes/debug/at/fh/swengb/sierpinski_android/R$style.class
    app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> app/build/intermediates/classes/debug/at/fh/swengb/sierpinski_android/R$styleable.class
    app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> app/build/intermediates/classes/debug/at/fh/swengb/sierpinski_android/R.class
-   app/src/main/java/at/fh/swengb/sierpinski_android/MainActivity.java -> app/build/intermediates/classes/debug/at/fh/swengb/sierpinski_android/MainActivity.class
+   app/src/main/scala/at/fh/swengb/sierpinski/MainActivity.scala -> app/build/intermediates/classes/debug/at/fh/swengb/sierpinski/MainActivity.class
+   app/src/main/scala/at/fh/swengb/sierpinski/SierpinskiView.scala -> app/build/intermediates/classes/debug/at/fh/swengb/sierpinski/SierpinskiView.class
 binary dependencies:
    app/build/generated/source/buildConfig/debug/at/fh/swengb/sierpinski_android/BuildConfig.java -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
    app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
    app/build/generated/source/r/debug/android/support/v7/cardview/R.java -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
    app/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
    app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
-   app/src/main/java/at/fh/swengb/sierpinski_android/MainActivity.java -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
-   app/src/main/java/at/fh/swengb/sierpinski_android/MainActivity.java -> /Users/laszlobalo/Library/Android/sdk/platforms/android-24/android.jar
-   app/src/main/java/at/fh/swengb/sierpinski_android/MainActivity.java -> app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar
-   app/src/main/java/at/fh/swengb/sierpinski_android/MainActivity.java -> app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar
-   app/src/main/java/at/fh/swengb/sierpinski_android/MainActivity.java -> app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar
+   app/src/main/scala/at/fh/swengb/sierpinski/MainActivity.scala -> /Users/laszlobalo/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/f75e7acabd57b213d6f61483240286c07213ec0e/scala-library-2.11.7.jar
+   app/src/main/scala/at/fh/swengb/sierpinski/MainActivity.scala -> /Users/laszlobalo/Library/Android/sdk/platforms/android-24/android.jar
+   app/src/main/scala/at/fh/swengb/sierpinski/MainActivity.scala -> app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar
+   app/src/main/scala/at/fh/swengb/sierpinski/SierpinskiView.scala -> /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar
+   app/src/main/scala/at/fh/swengb/sierpinski/SierpinskiView.scala -> /Users/laszlobalo/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/f75e7acabd57b213d6f61483240286c07213ec0e/scala-library-2.11.7.jar
+   app/src/main/scala/at/fh/swengb/sierpinski/SierpinskiView.scala -> /Users/laszlobalo/Library/Android/sdk/platforms/android-24/android.jar
 source dependencies:
    app/build/generated/source/buildConfig/debug/at/fh/swengb/sierpinski_android/BuildConfig.java -> app/build/generated/source/buildConfig/debug/at/fh/swengb/sierpinski_android/BuildConfig.java
    app/build/generated/source/r/debug/android/support/v7/appcompat/R.java -> app/build/generated/source/r/debug/android/support/v7/appcompat/R.java
    app/build/generated/source/r/debug/android/support/v7/cardview/R.java -> app/build/generated/source/r/debug/android/support/v7/cardview/R.java
    app/build/generated/source/r/debug/android/support/v7/gridlayout/R.java -> app/build/generated/source/r/debug/android/support/v7/gridlayout/R.java
    app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java
-   app/src/main/java/at/fh/swengb/sierpinski_android/MainActivity.java -> app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java
-   app/src/main/java/at/fh/swengb/sierpinski_android/MainActivity.java -> app/src/main/java/at/fh/swengb/sierpinski_android/MainActivity.java
+   app/src/main/scala/at/fh/swengb/sierpinski/MainActivity.scala -> app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java
 external dependencies:
 class names:
    app/build/generated/source/buildConfig/debug/at/fh/swengb/sierpinski_android/BuildConfig.java -> at.fh.swengb.sierpinski_android.BuildConfig
@@ -99,4 +100,5 @@ class names:
    app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> at.fh.swengb.sierpinski_android.R$string
    app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> at.fh.swengb.sierpinski_android.R$style
    app/build/generated/source/r/debug/at/fh/swengb/sierpinski_android/R.java -> at.fh.swengb.sierpinski_android.R$styleable
-   app/src/main/java/at/fh/swengb/sierpinski_android/MainActivity.java -> at.fh.swengb.sierpinski_android.MainActivity
+   app/src/main/scala/at/fh/swengb/sierpinski/MainActivity.scala -> at.fh.swengb.sierpinski.MainActivity
+   app/src/main/scala/at/fh/swengb/sierpinski/SierpinskiView.scala -> at.fh.swengb.sierpinski.SierpinskiView

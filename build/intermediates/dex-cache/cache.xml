@@ -48,21 +48,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="54a50b8ed15323a213b53a0346acf11205122a34">
+        <dex dex="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_db332089f72ece8dc5f2b07bb9de12e3019538d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
         sha1="1256c10604bb098490eab070d76754ac5ceab35c">
         <dex dex="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_62579d768270b55f24104a39c9ec01956969c86c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="97604a754589afd3623cfa815859ad85f90c373b">
-        <dex dex="/Users/laszlobalo/workspace/sierpinski-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_db332089f72ece8dc5f2b07bb9de12e3019538d5/classes.dex" />
     </item>
     <item
         is-multidex="true"
