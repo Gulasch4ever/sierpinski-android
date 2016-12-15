@@ -1,15 +1,14 @@
 # Created by .ignore support plugin (hsz.mobi)
 .gradle/
-#.idea/
-#app/build
-#app/libs
-#
+.idea/
+app/build
+app/libs
 build.gradle
 build/
 gradle.properties
 gradle/
 gradlew
 gradlew.bat
-#local.properties
-#settings.gradle
-#sierpinski-android.iml
+local.properties
+settings.gradle
+sierpinski-android.iml
